@@ -23,13 +23,14 @@
   },
   "homepage": "https://github.com/setyongr/b24#readme",
   "devDependencies": {
-    "typescript": "^2.4.2",
     "ava": "^0.22.0",
-    "nock": "^9.0.14"
+    "nock": "^9.0.14",
+    "typescript": "^2.4.2"
   },
   "dependencies": {
     "@types/request-promise": "^4.1.36",
     "dotenv": "^4.0.0",
+    "qs": "^6.6.0",
     "request": "^2.81.0",
     "request-promise": "^4.2.1"
   }
